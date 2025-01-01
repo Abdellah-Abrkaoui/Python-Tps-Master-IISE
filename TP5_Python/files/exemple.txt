@@ -1,0 +1,5 @@
+git fetch & git merge & git pull
+fetch gets all the change history of a tracked branch/repo.
+merge combines the current branch, with a specified branch.
+pull is a combination of fetch and merge.
+It is used to pull all changes from a remote repository into the branch you are working on.
