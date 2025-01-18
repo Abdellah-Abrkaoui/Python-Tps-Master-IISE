@@ -22,3 +22,8 @@
 
 ![alt text](Tps_Ennonce/tp5_1.png)
 ![alt text](Tps_Ennonce/tp5_2.png)
+
+## TP 6
+
+![alt text](Tps_Ennonce/tp6_1.png)
+![alt text](Tps_Ennonce/tp6_2.png)
