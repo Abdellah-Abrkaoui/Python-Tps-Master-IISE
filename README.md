@@ -27,3 +27,8 @@
 
 ![alt text](Tps_Ennonce/tp6_1.png)
 ![alt text](Tps_Ennonce/tp6_2.png)
+
+## TP 7
+
+![alt text](Tps_Ennonce/tp7_1.png)
+![alt text](Tps_Ennonce/tp7_2.png)
